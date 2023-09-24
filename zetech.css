@@ -1,0 +1,108 @@
+body {
+    background-color: whitesmoke;
+}
+
+.para {
+    font-size: 25px;
+    font-family: 20px;
+    color: blue;
+}
+
+p {
+    color: black;
+    font-size: 28px;
+}
+
+.img2 {
+    width: 20px;
+    height: 25px;
+    background-color: black;
+}
+
+.img-section {
+    background-color: whitesmoke;
+    width: 50%;
+    float: left;
+}
+
+.form-section {
+    background-color: whitesmoke;
+    width: 50%;
+    float: right;
+}
+
+.img1 img {
+    font-family: Arial;
+    width: 920px;
+    height: 753px;
+}
+
+img {
+    width: 850px;
+    height: 750px;
+    display: block;
+}
+
+.imag2 {
+    width: 200px;
+    height: 250px;
+    display: flex;
+}
+
+.imag2 img {
+    width: 200px;
+    height: 250px;
+    margin-left: 350px;
+    padding: auto;
+}
+
+.form-part {
+    margin-left: 250px;
+    padding: auto;
+    margin: 80px;
+}
+
+.form-deco {
+    padding: 0.5px;
+    font-size: 20px;
+}
+
+.form-deco label {
+    font-size: 25px;
+}
+
+.form-deco input {
+    width: 600px;
+    height: 35px;
+}
+
+.checkbox {
+    width: 65px;
+    height: 65px;
+    font-size: 22px;
+}
+
+button {
+    font-size: 25px;
+    width: 125px;
+    height: 35px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.remember {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 81%;
+    justify-content: space-between;
+}
+
+.right p {
+    font-size: 25px;
+}
+
+.left label {
+    font-size: 25px;
+}
